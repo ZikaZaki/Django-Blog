@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffdd54&color=3670A0)
 ![Django](https://img.shields.io/badge/django%20framework-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20v4-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 ![Licence](https://img.shields.io/github/license/zikazaki/django-blog)
 [![Visits Badge](https://badges.pufler.dev/visits/zikazaki/django-blog)](https://github.com/zikazaki/django-blog)
 
