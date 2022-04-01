@@ -13,11 +13,11 @@ class Core(models.Model):
     updated = models.DateTimeField(auto_now_add=True)
     published = models.DateTimeField(default=timezone.now)
 
-    def get_absolute_url(self):
-        return reverse('core:single', args=[self.slug])
-
     class Meta:
         ordering = ['-published']
+
+    def get_absolute_url(self):
+        return reverse('core:single', args=[self.slug])
 
     def __str__(self):
         return self.title
